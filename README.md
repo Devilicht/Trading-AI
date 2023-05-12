@@ -25,7 +25,7 @@ Finalmente, o agente é testado em um loop separado, seguindo a política aprend
 - nbformat
 - kaleido
 
-Tem o arquivo "requirements.txt" para poder recriar o ambiente virtual com o :
+Tem o arquivo "requirements.txt" para poder recriar o ambiente virtual com o comando no terminal :
 ```sh
 pip install -r requirements.txt
 ```
