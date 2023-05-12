@@ -1,6 +1,6 @@
 ## Trading-IABOT 
 
-implementação de um agente de negociação usando Q-learning em Python. O objetivo é maximizar o lucro comprando e vendendo ações de uma empresa (neste caso, a Apple) com base nos preços de fechamento históricos.
+Implementação de um agente de negociação usando Q-learning em Python que é uma técnica de reinforcement-learning . O objetivo é maximizar o lucro comprando e vendendo ações de uma empresa (neste caso, a Apple) com base nos preços de fechamento históricos.
 
 ### Dataset
  São dados relacionados aos preços das ações de uma empresa, especificamente a Apple Inc. As informações incluem a data em que as ações foram negociadas, bem como os preços de abertura, fechamento, alta e baixa das ações da Apple nesse dia. Além disso, a quantidade de ações negociadas (volume) e outras métricas financeiras, como médias móveis e direção da variação dos preços também são fornecidas. Esses dados podem ser usados para análise financeira e para entender o desempenho da Apple no mercado de ações.
