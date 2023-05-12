@@ -7,7 +7,7 @@ implementação de um agente de negociação usando Q-learning em Python. O obje
 
 ### Algoritimo Q-learning
 
-Primeiramente, o código lê os preços de fechamento históricos da Apple de um arquivo CSV e plota um gráfico de velas para visualizar os dados. Em seguida, define os hiperparâmetros do Q-learning, como o número de episódios, a taxa de aprendizado, o fator de desconto e a probabilidade de explorar uma ação aleatória.
+Primeiramente, o código lê os preços de fechamento históricos da Apple de um arquivo CSV e plota um gráfico de velas para visualizar os dados que vai para o diretorio "./img/". Em seguida, define os hiperparâmetros do Q-learning, como o número de episódios, a taxa de aprendizado, o fator de desconto e a probabilidade de explorar uma ação aleatória.
 
 O código então inicializa a tabela Q, que é uma matriz que armazena os valores de recompensa para cada ação em cada estado. Em seguida, executa o treinamento do agente por um número fixo de episódios.
 
