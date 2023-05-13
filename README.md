@@ -17,7 +17,7 @@ Finalmente, o agente é testado em um loop separado, seguindo a política aprend
 
 ### Preços de fechamento históricos da Apple (gráfico de velas) 
 
-![data]("./img/candlestick.png")
+![data](./img/candlestick.png)
 
 ### Dependencias:
 - random
