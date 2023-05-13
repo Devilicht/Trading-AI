@@ -1,4 +1,4 @@
-## Trading-IABOT 
+## Trading-IA
 
 Implementação de um agente de negociação usando Q-learning em Python que é uma técnica de reinforcement-learning . O objetivo é maximizar o lucro comprando e vendendo ações de uma empresa (neste caso, a Apple) com base nos preços de fechamento históricos.
 
@@ -15,6 +15,9 @@ Em cada episódio, o agente segue uma política epsilon-greedy para escolher uma
 
 Finalmente, o agente é testado em um loop separado, seguindo a política aprendida e executando as ações na série de preços de fechamento históricos. O resultado final é o lucro obtido pelo agente após a negociação de todas as ações disponíveis.
 
+### Preços de fechamento históricos da Apple (gráfico de velas) 
+
+![data]("./img/candlestick.png")
 
 ### Dependencias:
 - random
